@@ -1,0 +1,5 @@
+﻿  func.cpp
+C:\Users\avduryagin\source\repos\square\square\func.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\avduryagin\source\repos\square\square\func.cpp(138,24): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(201,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  time_code_parser.vcxproj -> C:\Users\avduryagin\source\repos\time_code_parser\x64\Debug\time_code_parser.dll

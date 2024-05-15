@@ -1,0 +1,22 @@
+﻿  func.cpp
+C:\Users\avduryagin\source\repos\square\square\func.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\avduryagin\source\repos\square\square\func.cpp(117,14): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(133,13): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(197,24): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(260,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(288,12): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(308,20): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(309,11): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\avduryagin\source\repos\square\square\func.cpp(357,6): warning C4804: >: небезопасное использование типа "bool" в операции
+  main_lib.cpp
+C:\Users\avduryagin\source\repos\time_code_parser\time_code_parser\main_lib.cpp(52,7): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\avduryagin\source\repos\time_code_parser\time_code_parser\main_lib.cpp(94,7): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\avduryagin\source\repos\time_code_parser\time_code_parser\main_lib.cpp(167,14): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\avduryagin\source\repos\time_code_parser\time_code_parser\main_lib.cpp(177,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\avduryagin\source\repos\time_code_parser\x64\Release\time_code_parser.lib и объект C:\Users\avduryagin\source\repos\time_code_parser\x64\Release\time_code_parser.exp
+  Создание кода
+  3 of 336 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  time_code_parser.vcxproj -> C:\Users\avduryagin\source\repos\time_code_parser\x64\Release\time_code_parser.dll
